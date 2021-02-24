@@ -5,7 +5,7 @@
 
 行，中文书上写的是 **蒙特卡洛算法通过平均样本的回报来解决强化学习问题**，然后我就纠结了好一会儿到底sample return还是sample reward。
 
-然后事实证明是sample reward（因为我又做了一次 只做了这道题）
+然后事实证明是sample reward（因为我又做了一次，只做了这道题）
 
 ![image](https://user-images.githubusercontent.com/55370336/109021415-d191f200-76f5-11eb-835e-5aa758bb80b0.png)
 
